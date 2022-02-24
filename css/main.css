@@ -272,3 +272,20 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
+
+.fire{
+  max-width: 70px
+}
+.merch-section{
+  margin-left: 500px
+  margin-right: auto
+}
+.merch-pics{
+  max-width: 400px
+}
+.more-merch-pics{
+  max-width: 400px
+}
+.even-more-merch-pics{
+  max-width: 400px
+}
