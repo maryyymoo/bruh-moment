@@ -273,11 +273,16 @@ img{
   margin-right: auto;
 }
 
+.band-header a{
+align-content: center;
+  justify-content: space-between;
+  align-items: row;
+}
 .fire{
   max-width: 70px
 }
 .merch-section{
-  margin-left: 500px;
+  margin-left: 450px;
 }
 .merch-pics{
   max-width: 400px;
@@ -287,10 +292,10 @@ img{
 }
 .even-more-merch-pics{
   max-width: 400px;
-  border: 40px solid #28464B;
+  ;
 }
 .headphones{
-  display: flex;
   align-items: center;
   max-width: 300px;
+  border: 60px solid #28464B
 }
