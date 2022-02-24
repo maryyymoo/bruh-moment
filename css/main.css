@@ -261,3 +261,14 @@ textarea {
   }
 }
 
+
+img{
+  width: 100%;
+  height: auto
+}
+
+.tour-picture{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
