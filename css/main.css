@@ -277,15 +277,20 @@ img{
   max-width: 70px
 }
 .merch-section{
-  margin-left: 500px
-  margin-right: auto
+  margin-left: 500px;
 }
 .merch-pics{
-  max-width: 400px
+  max-width: 400px;
 }
 .more-merch-pics{
-  max-width: 400px
+  max-width: 400px;
 }
 .even-more-merch-pics{
-  max-width: 400px
+  max-width: 400px;
+  border: 40px solid #28464B;
+}
+.headphones{
+  display: flex;
+  align-items: center;
+  max-width: 300px;
 }
